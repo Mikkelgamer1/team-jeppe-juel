@@ -551,12 +551,6 @@ const forside = (o, data) => `
     <div class="hero__billede">
       <figure class="bue hero__bue">${billede('hero', 'Udsigt fra sulkyen: travhest i træning langs en grøn mark', { sizes: '(min-width: 901px) 40vw, 92vw', lazy: false })}</figure>
       <figure class="hero__portraet">${billede('portraet', 'Jeppe Juel i løbsfarverne', { sizes: '180px', lazy: false })}</figure>
-      <svg class="segl" viewBox="0 0 120 120" aria-hidden="true">
-        <defs><path id="seglbue" d="M60 60m-46 0a46 46 0 1 1 92 0a46 46 0 1 1-92 0"/></defs>
-        <circle cx="60" cy="60" r="59"/>
-        <text><textPath href="#seglbue" textLength="286" lengthAdjust="spacing">TEAM JEPPE JUEL · AALBORG · TRAV ·</textPath></text>
-        <path class="segl__stjerne" d="${STJERNE}" transform="translate(44 44) scale(1.333)"/>
-      </svg>
     </div>
   </div>
 </section>

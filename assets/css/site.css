@@ -136,11 +136,6 @@ h3 { font-size: 1.25rem; }
 .hero__bue { aspect-ratio: 4 / 5; box-shadow: 0 0 0 8px var(--papir), 0 0 0 10px var(--groen), 0 40px 70px -30px rgba(20, 51, 38, .55); }
 .hero__portraet { position: absolute; left: -44px; bottom: 34px; width: clamp(120px, 13vw, 168px); margin: 0; overflow: hidden; border-radius: 50%; box-shadow: 0 0 0 5px var(--papir), 0 0 0 8px var(--bordeaux), 0 24px 40px -18px rgba(20, 51, 38, .6); }
 .hero__portraet img { width: 100%; height: auto; }
-.segl { position: absolute; top: -18px; right: -26px; width: clamp(104px, 10vw, 132px); }
-.segl circle { fill: var(--groen); }
-.segl text { font: 700 10.4px var(--sans); letter-spacing: .14em; fill: var(--creme); }
-.segl__stjerne { fill: var(--bordeaux-lys); }
-.segl text { transform-origin: 60px 60px; animation: drej 28s linear infinite; }
 
 /* Sæsonens tal på en grøn tavle */
 .tavle { position: relative; z-index: 2; margin-block: 0 8px; }
@@ -472,7 +467,6 @@ html:not(.js) .fb { display: none; }
   .maerke .stjerne { font-size: 1.6rem; }
   .maerke__ord { font-size: 1.1rem; }
   .hero__portraet { left: -8%; width: 116px; }
-  .segl { right: -6%; width: 96px; }
   .tavle dl { grid-template-columns: repeat(2, auto); }
   .nogle { grid-template-columns: 1fr 1fr; }
   .nogle div:nth-child(3) { grid-column: 1 / -1; padding-left: 0; border-left: 0; border-top: 1px solid var(--linje); }
