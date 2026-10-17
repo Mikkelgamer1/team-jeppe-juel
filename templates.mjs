@@ -20,8 +20,10 @@ export const SITE = {
   kort: 'https://www.google.com/maps/search/?api=1&query=Vilstedvej+157%2C+9670+L%C3%B8gst%C3%B8r',
 };
 
-// Samarbejdspartnere med logo. Tom liste = ingen sektion. (Red Mills står på løbsdragten – bekræft og tilføj logo.)
-const PARTNERE = [];
+// Samarbejdspartnere (Red Mills står på Jeppes løbsdragt).
+const PARTNERE = [
+  { navn: "Connolly's Red Mills", url: 'https://www.redmills.com/', logo: 'partner-redmills.png', b: 204, h: 78, tekst: 'Foder til heste' },
+];
 
 // Billeder fra Team Jeppe Juels Facebook-side: navn → [forhold, bredder…]
 const BILLEDER = {
