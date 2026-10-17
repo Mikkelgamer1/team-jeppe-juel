@@ -188,7 +188,7 @@ const kontaktbaand = () => `
 </section>`;
 
 const partnere = () => (PARTNERE.length ? `
-<section class="sek sek--creme2 sek--smal">
+<section class="sek sek--smal">
   <div class="wrap partnere">
     <div>
       ${etiket('Samarbejdspartnere', ' data-vis')}
