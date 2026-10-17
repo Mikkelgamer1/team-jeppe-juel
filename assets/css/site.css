@@ -285,7 +285,7 @@ h3 { font-size: 1.25rem; }
 .partnere { display: grid; grid-template-columns: 1fr 1.6fr; gap: 28px clamp(32px, 6vw, 96px); align-items: center; }
 .partnere__liste { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
 .partnere__liste a { display: grid; gap: 16px; justify-items: start; height: 100%; padding: 26px; border-radius: var(--r); background: var(--papir); }
-.partnere__liste img { height: 56px; width: auto; }
+.partnere__liste img { height: auto; max-height: 56px; width: auto; max-width: 100%; }
 .partnere__liste span { font-size: .84rem; color: var(--daemp); }
 
 .foelg { display: grid; grid-template-columns: 1.1fr 1fr; gap: clamp(32px, 6vw, 96px); align-items: center; }

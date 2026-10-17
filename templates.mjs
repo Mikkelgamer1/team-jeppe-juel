@@ -14,15 +14,16 @@ export const SITE = {
   postnr: '9670',
   by: 'Løgstør',
   facebook: 'https://www.facebook.com/profile.php?id=100063583749787', // opslag vises som kort, når FB_SIDE/FB_TOKEN er sat i GitHub
-  instagram: '', // ← profilens adresse, hvis stalden har en
+  instagram: 'https://www.instagram.com/teamjuel/',
   travinfo: 'https://travinfo.dk/licenseholder-tabs/56812',
   hjemmebane: 'https://www.aav.dk/',
   kort: 'https://www.google.com/maps/search/?api=1&query=Vilstedvej+157%2C+9670+L%C3%B8gst%C3%B8r',
 };
 
-// Samarbejdspartnere (Red Mills står på Jeppes løbsdragt).
+// Samarbejdspartnere (bekræftet af stalden).
 const PARTNERE = [
   { navn: "Connolly's Red Mills", url: 'https://www.redmills.com/', logo: 'partner-redmills.png', b: 204, h: 78, tekst: 'Foder til heste' },
+  { navn: 'Horse Choice', url: 'https://www.horsechoice.dk/', logo: 'partner-horsechoice.png', b: 230, h: 43, tekst: 'Foder, tilskud, pleje og udstyr · Viborg' },
 ];
 
 // Billeder fra Team Jeppe Juels Facebook-side: navn → [forhold, bredder…]
