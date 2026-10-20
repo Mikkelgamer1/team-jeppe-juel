@@ -1,5 +1,5 @@
 {
- "opdateret": "2026-10-19T09:55:17.558Z",
+ "opdateret": "2026-10-20T09:26:06.749Z",
  "traener": {
   "foedt": 1975,
   "hjemmebane": "Spar Nord Arena Aalborg",
@@ -3789,6 +3789,54 @@
    "hestId": 658654,
    "hest": "Nilsson",
    "kusk": "Jeppe Juel"
+  },
+  {
+   "dato": "2026-10-23",
+   "bane": "Od",
+   "loeb": 1,
+   "hestId": 649346,
+   "hest": "Moses Di Quattro (SE)",
+   "kusk": "Jeppe Juel"
+  },
+  {
+   "dato": "2026-10-23",
+   "bane": "Od",
+   "loeb": 2,
+   "hestId": 654092,
+   "hest": "Leo Wynn",
+   "kusk": "Jeppe Juel"
+  },
+  {
+   "dato": "2026-10-23",
+   "bane": "Od",
+   "loeb": 2,
+   "hestId": 653365,
+   "hest": "Lucky Love",
+   "kusk": "Kenneth Andersen"
+  },
+  {
+   "dato": "2026-10-23",
+   "bane": "Od",
+   "loeb": 3,
+   "hestId": 661121,
+   "hest": "Duke Of Walner (US)",
+   "kusk": "Jeppe Juel"
+  },
+  {
+   "dato": "2026-10-23",
+   "bane": "Od",
+   "loeb": 4,
+   "hestId": 654328,
+   "hest": "Leonora By Hans",
+   "kusk": "Ruben Kristensen"
+  },
+  {
+   "dato": "2026-10-23",
+   "bane": "Od",
+   "loeb": 8,
+   "hestId": 660179,
+   "hest": "Grantorino Font (IT)",
+   "kusk": "Laura Gregersen"
   }
  ]
 }
