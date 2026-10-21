@@ -1,5 +1,5 @@
 {
- "opdateret": "2026-10-20T09:26:06.749Z",
+ "opdateret": "2026-10-21T09:22:26.554Z",
  "traener": {
   "foedt": 1975,
   "hjemmebane": "Spar Nord Arena Aalborg",
@@ -3837,6 +3837,14 @@
    "hestId": 660179,
    "hest": "Grantorino Font (IT)",
    "kusk": "Laura Gregersen"
+  },
+  {
+   "dato": "2026-10-24",
+   "bane": "Ål",
+   "loeb": 91,
+   "hestId": 659500,
+   "hest": "Invisible Sun (SE)",
+   "kusk": "Sarah Bäckman"
   }
  ]
 }
