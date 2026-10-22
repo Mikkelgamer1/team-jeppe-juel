@@ -1,5 +1,5 @@
 {
- "opdateret": "2026-10-21T09:22:26.554Z",
+ "opdateret": "2026-10-22T09:25:16.953Z",
  "traener": {
   "foedt": 1975,
   "hjemmebane": "Spar Nord Arena Aalborg",
@@ -9,12 +9,12 @@
  "traenerStatistik": [
   {
    "aar": 2026,
-   "starter": 194,
+   "starter": 195,
    "sejre": 30,
    "toer": 26,
    "treer": 22,
    "procent": 15,
-   "praemier": 1356306
+   "praemier": 1358306
   },
   {
    "aar": 2025,
@@ -56,12 +56,12 @@
  "kuskStatistik": [
   {
    "aar": 2026,
-   "starter": 430,
+   "starter": 432,
    "sejre": 63,
    "toer": 60,
    "treer": 62,
    "procent": 15,
-   "praemier": 2224484
+   "praemier": 2226484
   },
   {
    "aar": 2025,
@@ -395,9 +395,9 @@
    "foedt": "2024-04-15",
    "far": "Fabulous Wood (FR)",
    "mor": "Bikini",
-   "starter": 3,
+   "starter": 4,
    "placeringer": "0-0-0",
-   "praemier": 24000,
+   "praemier": 26000,
    "rekord": "17,9ak 18,9am"
   },
   {
@@ -480,6 +480,18 @@
   }
  ],
  "resultater": [
+  {
+   "id": "837922-658654",
+   "dato": "2026-10-21",
+   "bane": "Ch",
+   "loeb": 7,
+   "hestId": 658654,
+   "hest": "Nilsson",
+   "placering": "5",
+   "tid": "18,9a",
+   "distance": 2000,
+   "praemie": 2000
+  },
   {
    "id": "837848-648049",
    "dato": "2026-10-16",
@@ -3783,14 +3795,6 @@
  ],
  "kommende": [
   {
-   "dato": "2026-10-21",
-   "bane": "Ch",
-   "loeb": 7,
-   "hestId": 658654,
-   "hest": "Nilsson",
-   "kusk": "Jeppe Juel"
-  },
-  {
    "dato": "2026-10-23",
    "bane": "Od",
    "loeb": 1,
@@ -3837,14 +3841,6 @@
    "hestId": 660179,
    "hest": "Grantorino Font (IT)",
    "kusk": "Laura Gregersen"
-  },
-  {
-   "dato": "2026-10-24",
-   "bane": "Ål",
-   "loeb": 91,
-   "hestId": 659500,
-   "hest": "Invisible Sun (SE)",
-   "kusk": "Sarah Bäckman"
   }
  ]
 }
