@@ -1,5 +1,5 @@
 {
- "opdateret": "2026-10-23T09:21:26.707Z",
+ "opdateret": "2026-10-25T09:09:46.582Z",
  "traener": {
   "foedt": 1975,
   "hjemmebane": "Spar Nord Arena Aalborg",
@@ -9,12 +9,12 @@
  "traenerStatistik": [
   {
    "aar": 2026,
-   "starter": 195,
-   "sejre": 30,
-   "toer": 26,
+   "starter": 201,
+   "sejre": 31,
+   "toer": 27,
    "treer": 22,
    "procent": 15,
-   "praemier": 1358306
+   "praemier": 1477306
   },
   {
    "aar": 2025,
@@ -56,12 +56,12 @@
  "kuskStatistik": [
   {
    "aar": 2026,
-   "starter": 432,
-   "sejre": 63,
+   "starter": 438,
+   "sejre": 64,
    "toer": 60,
    "treer": 62,
    "procent": 15,
-   "praemier": 2226484
+   "praemier": 2259484
   },
   {
    "aar": 2025,
@@ -122,9 +122,9 @@
    "foedt": "2021-03-29",
    "far": "Walner (CA)",
    "mor": "Nashville Lindy (US)",
-   "starter": 37,
+   "starter": 38,
    "placeringer": "5-7-7",
-   "praemier": 1329598,
+   "praemier": 1332598,
    "rekord": "10,1ak 11,8am *10,0aak"
   },
   {
@@ -161,7 +161,7 @@
    "foedt": "2022-05-09",
    "far": "Every Time Bourbon (FR)",
    "mor": "Regalia (US)",
-   "starter": 26,
+   "starter": 27,
    "placeringer": "6-3-3",
    "praemier": 215704,
    "rekord": "15,8m 17,5l 13,4ak 13,9am"
@@ -252,9 +252,9 @@
    "foedt": "2022-05-26",
    "far": "Googoo Gaagaa (US)",
    "mor": "Wannabe",
-   "starter": 18,
-   "placeringer": "5-3-3",
-   "praemier": 183250,
+   "starter": 19,
+   "placeringer": "5-4-3",
+   "praemier": 269250,
    "rekord": "*15,2m 14,2ak 13,0am"
   },
   {
@@ -265,10 +265,10 @@
    "foedt": "2022-05-17",
    "far": "Maharajah (SE)",
    "mor": "Awesome Annie",
-   "starter": 19,
-   "placeringer": "2-2-4",
-   "praemier": 110592,
-   "rekord": "*13,5ak 14,1am 14,6al"
+   "starter": 20,
+   "placeringer": "3-2-4",
+   "praemier": 140592,
+   "rekord": "*13,5ak *13,1am 14,6al"
   },
   {
    "id": 653365,
@@ -278,7 +278,7 @@
    "foedt": "2022-05-18",
    "far": "Ens Snapshot (US)",
    "mor": "Flash Of Love",
-   "starter": 17,
+   "starter": 18,
    "placeringer": "2-0-5",
    "praemier": 115692,
    "rekord": "16,8ak 13,8am 14,0al"
@@ -382,7 +382,7 @@
    "foedt": "2019-05-19",
    "far": "S J's Caviar (US)",
    "mor": "Imagina November (IT)",
-   "starter": 71,
+   "starter": 72,
    "placeringer": "12-8-11",
    "praemier": 333735,
    "rekord": "14,0m 15,4l 12,3ak *13,2am *17,8al"
@@ -480,6 +480,78 @@
   }
  ],
  "resultater": [
+  {
+   "id": "837961-660179",
+   "dato": "2026-10-23",
+   "bane": "Od",
+   "loeb": 8,
+   "hestId": 660179,
+   "hest": "Grantorino Font (IT)",
+   "placering": "0",
+   "tid": "19,0",
+   "distance": 2160,
+   "praemie": 0
+  },
+  {
+   "id": "837956-654328",
+   "dato": "2026-10-23",
+   "bane": "Od",
+   "loeb": 4,
+   "hestId": 654328,
+   "hest": "Leonora By Hans",
+   "placering": "2",
+   "tid": "13,4a",
+   "distance": 2140,
+   "praemie": 86000
+  },
+  {
+   "id": "837965-661121",
+   "dato": "2026-10-23",
+   "bane": "Od",
+   "loeb": 3,
+   "hestId": 661121,
+   "hest": "Duke Of Walner (US)",
+   "placering": "5",
+   "tid": "13,4a",
+   "distance": 1640,
+   "praemie": 3000
+  },
+  {
+   "id": "837957-653365",
+   "dato": "2026-10-23",
+   "bane": "Od",
+   "loeb": 2,
+   "hestId": 653365,
+   "hest": "Lucky Love",
+   "placering": "0",
+   "tid": "14,6a",
+   "distance": 2140,
+   "praemie": 0
+  },
+  {
+   "id": "837957-654092",
+   "dato": "2026-10-23",
+   "bane": "Od",
+   "loeb": 2,
+   "hestId": 654092,
+   "hest": "Leo Wynn",
+   "placering": "1",
+   "tid": "13,1a",
+   "distance": 2140,
+   "praemie": 30000
+  },
+  {
+   "id": "837964-649346",
+   "dato": "2026-10-23",
+   "bane": "Od",
+   "loeb": 1,
+   "hestId": 649346,
+   "hest": "Moses Di Quattro (SE)",
+   "placering": "d",
+   "tid": "g7a",
+   "distance": 2140,
+   "praemie": 0
+  },
   {
    "id": "837922-658654",
    "dato": "2026-10-21",
@@ -3793,54 +3865,5 @@
    "praemie": 3000
   }
  ],
- "kommende": [
-  {
-   "dato": "2026-10-23",
-   "bane": "Od",
-   "loeb": 1,
-   "hestId": 649346,
-   "hest": "Moses Di Quattro (SE)",
-   "kusk": "Jeppe Juel"
-  },
-  {
-   "dato": "2026-10-23",
-   "bane": "Od",
-   "loeb": 2,
-   "hestId": 654092,
-   "hest": "Leo Wynn",
-   "kusk": "Jeppe Juel"
-  },
-  {
-   "dato": "2026-10-23",
-   "bane": "Od",
-   "loeb": 2,
-   "hestId": 653365,
-   "hest": "Lucky Love",
-   "kusk": "Kenneth Andersen"
-  },
-  {
-   "dato": "2026-10-23",
-   "bane": "Od",
-   "loeb": 3,
-   "hestId": 661121,
-   "hest": "Duke Of Walner (US)",
-   "kusk": "Jeppe Juel"
-  },
-  {
-   "dato": "2026-10-23",
-   "bane": "Od",
-   "loeb": 4,
-   "hestId": 654328,
-   "hest": "Leonora By Hans",
-   "kusk": "Ruben Kristensen"
-  },
-  {
-   "dato": "2026-10-23",
-   "bane": "Od",
-   "loeb": 8,
-   "hestId": 660179,
-   "hest": "Grantorino Font (IT)",
-   "kusk": "Laura Gregersen"
-  }
- ]
+ "kommende": []
 }
