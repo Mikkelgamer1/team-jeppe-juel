@@ -1,5 +1,5 @@
 {
- "opdateret": "2026-10-25T09:09:46.582Z",
+ "opdateret": "2026-10-26T10:07:59.550Z",
  "traener": {
   "foedt": 1975,
   "hjemmebane": "Spar Nord Arena Aalborg",
@@ -3865,5 +3865,30 @@
    "praemie": 3000
   }
  ],
- "kommende": []
+ "kommende": [
+  {
+   "dato": "2026-10-29",
+   "bane": "Åb",
+   "loeb": 4,
+   "hestId": 656471,
+   "hest": "Entertainment (SE)",
+   "kusk": "Jeppe Juel"
+  },
+  {
+   "dato": "2026-10-29",
+   "bane": "Åb",
+   "loeb": 8,
+   "hestId": 651874,
+   "hest": "Klinton",
+   "kusk": "Jeppe Juel"
+  },
+  {
+   "dato": "2026-10-29",
+   "bane": "Åb",
+   "loeb": 9,
+   "hestId": 648049,
+   "hest": "Here's Johnny",
+   "kusk": "Jeppe Juel"
+  }
+ ]
 }
