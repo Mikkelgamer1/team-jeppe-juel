@@ -1,5 +1,5 @@
 {
- "opdateret": "2026-10-27T09:49:25.495Z",
+ "opdateret": "2026-10-28T10:35:35.237Z",
  "traener": {
   "foedt": 1975,
   "hjemmebane": "Spar Nord Arena Aalborg",
@@ -3888,6 +3888,30 @@
    "loeb": 9,
    "hestId": 648049,
    "hest": "Here's Johnny",
+   "kusk": "Jeppe Juel"
+  },
+  {
+   "dato": "2026-11-02",
+   "bane": "Ål",
+   "loeb": 4,
+   "hestId": 657609,
+   "hest": "Fly Equos Jet (IT)",
+   "kusk": "Jeppe Juel"
+  },
+  {
+   "dato": "2026-11-02",
+   "bane": "Ål",
+   "loeb": 5,
+   "hestId": 659023,
+   "hest": "Nimbus",
+   "kusk": "Jeppe Juel"
+  },
+  {
+   "dato": "2026-11-02",
+   "bane": "Ål",
+   "loeb": 91,
+   "hestId": 659082,
+   "hest": "Noon D'atout",
    "kusk": "Jeppe Juel"
   }
  ]
