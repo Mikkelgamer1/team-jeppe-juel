@@ -1,5 +1,5 @@
 {
- "opdateret": "2026-10-29T10:54:30.193Z",
+ "opdateret": "2026-10-30T10:52:29.397Z",
  "traener": {
   "foedt": 1975,
   "hjemmebane": "Spar Nord Arena Aalborg",
@@ -9,12 +9,12 @@
  "traenerStatistik": [
   {
    "aar": 2026,
-   "starter": 201,
+   "starter": 204,
    "sejre": 31,
    "toer": 27,
-   "treer": 22,
+   "treer": 23,
    "procent": 15,
-   "praemier": 1477306
+   "praemier": 1504681
   },
   {
    "aar": 2025,
@@ -56,12 +56,12 @@
  "kuskStatistik": [
   {
    "aar": 2026,
-   "starter": 441,
+   "starter": 443,
    "sejre": 64,
    "toer": 60,
    "treer": 63,
-   "procent": 15,
-   "praemier": 2262984
+   "procent": 14,
+   "praemier": 2275645
   },
   {
    "aar": 2025,
@@ -135,10 +135,10 @@
    "foedt": "2022-05-24",
    "far": "Hayden Hanover (US)",
    "mor": "Fonzan Sund (SE)",
-   "starter": 30,
-   "placeringer": "4-7-0",
-   "praemier": 134615,
-   "rekord": "19,2m *12,7ak *15,3am"
+   "starter": 31,
+   "placeringer": "4-7-1",
+   "praemier": 149329,
+   "rekord": "19,2m *12,7ak *15,3am 14,9al"
   },
   {
    "id": 657609,
@@ -174,10 +174,10 @@
    "foedt": "2019-05-24",
    "far": "Farifant (IT)",
    "mor": "Need You (SE)",
-   "starter": 53,
+   "starter": 54,
    "placeringer": "10-12-8",
-   "praemier": 292815,
-   "rekord": "14,6m 15,8l 12,1ak 13,0am"
+   "praemier": 297948,
+   "rekord": "13,9m 15,8l 12,1ak 13,0am"
   },
   {
    "id": 648945,
@@ -226,9 +226,9 @@
    "foedt": "2021-06-14",
    "far": "Varenne (IT)",
    "mor": "Boulevard (NO)",
-   "starter": 29,
+   "starter": 30,
    "placeringer": "7-4-4",
-   "praemier": 471793,
+   "praemier": 479321,
    "rekord": "*15,6k *16,4m *11,4ak 11,1am 13,9al"
   },
   {
@@ -480,6 +480,42 @@
   }
  ],
  "resultater": [
+  {
+   "id": "838044-648049",
+   "dato": "2026-10-29",
+   "bane": "Åb",
+   "loeb": 9,
+   "hestId": 648049,
+   "hest": "Here's Johnny",
+   "placering": "4",
+   "tid": "13,9",
+   "distance": 2140,
+   "praemie": 5133
+  },
+  {
+   "id": "838043-651874",
+   "dato": "2026-10-29",
+   "bane": "Åb",
+   "loeb": 8,
+   "hestId": 651874,
+   "hest": "Klinton",
+   "placering": "5",
+   "tid": "12,7a",
+   "distance": 2140,
+   "praemie": 7528
+  },
+  {
+   "id": "838041-656471",
+   "dato": "2026-10-29",
+   "bane": "Åb",
+   "loeb": 4,
+   "hestId": 656471,
+   "hest": "Entertainment (SE)",
+   "placering": "3",
+   "tid": "14,9a",
+   "distance": 2640,
+   "praemie": 14714
+  },
   {
    "id": "837961-660179",
    "dato": "2026-10-23",
@@ -3866,30 +3902,6 @@
   }
  ],
  "kommende": [
-  {
-   "dato": "2026-10-29",
-   "bane": "Åb",
-   "loeb": 4,
-   "hestId": 656471,
-   "hest": "Entertainment (SE)",
-   "kusk": "Jeppe Juel"
-  },
-  {
-   "dato": "2026-10-29",
-   "bane": "Åb",
-   "loeb": 8,
-   "hestId": 651874,
-   "hest": "Klinton",
-   "kusk": "Jeppe Juel"
-  },
-  {
-   "dato": "2026-10-29",
-   "bane": "Åb",
-   "loeb": 9,
-   "hestId": 648049,
-   "hest": "Here's Johnny",
-   "kusk": "Jeppe Juel"
-  },
   {
    "dato": "2026-11-02",
    "bane": "Ål",
