@@ -1,5 +1,5 @@
 {
- "opdateret": "2026-11-01T11:16:28.068Z",
+ "opdateret": "2026-11-02T12:25:17.067Z",
  "traener": {
   "foedt": 1975,
   "hjemmebane": "Spar Nord Arena Aalborg",
@@ -9,12 +9,12 @@
  "traenerStatistik": [
   {
    "aar": 2026,
-   "starter": 204,
+   "starter": 206,
    "sejre": 31,
    "toer": 27,
    "treer": 23,
    "procent": 15,
-   "praemier": 1504681
+   "praemier": 1507817
   },
   {
    "aar": 2025,
@@ -56,12 +56,12 @@
  "kuskStatistik": [
   {
    "aar": 2026,
-   "starter": 448,
+   "starter": 449,
    "sejre": 65,
    "toer": 61,
    "treer": 63,
-   "procent": 15,
-   "praemier": 2293145
+   "procent": 14,
+   "praemier": 2294713
   },
   {
    "aar": 2025,
@@ -239,9 +239,9 @@
    "foedt": "2021-06-06",
    "far": "Donato Hanover (US)",
    "mor": "Salina",
-   "starter": 16,
+   "starter": 17,
    "placeringer": "7-1-2",
-   "praemier": 254450,
+   "praemier": 256018,
    "rekord": "*14,7m 15,3ak 14,7am"
   },
   {
@@ -252,9 +252,9 @@
    "foedt": "2022-05-26",
    "far": "Googoo Gaagaa (US)",
    "mor": "Wannabe",
-   "starter": 19,
+   "starter": 20,
    "placeringer": "5-4-3",
-   "praemier": 269250,
+   "praemier": 270818,
    "rekord": "*15,2m 14,2ak 13,0am"
   },
   {
@@ -480,6 +480,18 @@
   }
  ],
  "resultater": [
+  {
+   "id": "838165-654328",
+   "dato": "2026-10-31",
+   "bane": "Bj",
+   "loeb": 10,
+   "hestId": 654328,
+   "hest": "Leonora By Hans",
+   "placering": "d",
+   "tid": "ga",
+   "distance": 2100,
+   "praemie": 1568
+  },
   {
    "id": "838044-648049",
    "dato": "2026-10-29",
