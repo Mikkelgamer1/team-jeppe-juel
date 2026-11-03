@@ -1,5 +1,5 @@
 {
- "opdateret": "2026-11-02T12:25:17.067Z",
+ "opdateret": "2026-11-03T11:56:10.484Z",
  "traener": {
   "foedt": 1975,
   "hjemmebane": "Spar Nord Arena Aalborg",
@@ -9,12 +9,12 @@
  "traenerStatistik": [
   {
    "aar": 2026,
-   "starter": 206,
-   "sejre": 31,
-   "toer": 27,
+   "starter": 208,
+   "sejre": 32,
+   "toer": 28,
    "treer": 23,
    "procent": 15,
-   "praemier": 1507817
+   "praemier": 1525317
   },
   {
    "aar": 2025,
@@ -56,12 +56,12 @@
  "kuskStatistik": [
   {
    "aar": 2026,
-   "starter": 449,
-   "sejre": 65,
-   "toer": 61,
+   "starter": 453,
+   "sejre": 66,
+   "toer": 62,
    "treer": 63,
-   "procent": 14,
-   "praemier": 2294713
+   "procent": 15,
+   "praemier": 2314713
   },
   {
    "aar": 2025,
@@ -148,9 +148,9 @@
    "foedt": "2021-01-29",
    "far": "Readly Express (SE)",
    "mor": "Tuatara Jet (IT)",
-   "starter": 24,
-   "placeringer": "10-3-0",
-   "praemier": 896218,
+   "starter": 25,
+   "placeringer": "11-3-0",
+   "praemier": 906218,
    "rekord": "*10,7ak"
   },
   {
@@ -408,10 +408,10 @@
    "foedt": "2024-06-23",
    "far": "Calgary Games (SE)",
    "mor": "Treasure Island (SE)",
-   "starter": 0,
-   "placeringer": "0-0-0",
-   "praemier": 0,
-   "rekord": ""
+   "starter": 1,
+   "placeringer": "0-1-0",
+   "praemier": 7500,
+   "rekord": "19,8m"
   },
   {
    "id": 659696,
@@ -480,6 +480,30 @@
   }
  ],
  "resultater": [
+  {
+   "id": "838072-659023",
+   "dato": "2026-11-02",
+   "bane": "Ål",
+   "loeb": 5,
+   "hestId": 659023,
+   "hest": "Nimbus",
+   "placering": "2",
+   "tid": "19,8",
+   "distance": 2140,
+   "praemie": 7500
+  },
+  {
+   "id": "838075-657609",
+   "dato": "2026-11-02",
+   "bane": "Ål",
+   "loeb": 4,
+   "hestId": 657609,
+   "hest": "Fly Equos Jet (IT)",
+   "placering": "1",
+   "tid": "13,3a",
+   "distance": 1640,
+   "praemie": 10000
+  },
   {
    "id": "838165-654328",
    "dato": "2026-10-31",
@@ -3915,28 +3939,52 @@
  ],
  "kommende": [
   {
-   "dato": "2026-11-02",
-   "bane": "Ål",
-   "loeb": 4,
-   "hestId": 657609,
-   "hest": "Fly Equos Jet (IT)",
+   "dato": "2026-11-06",
+   "bane": "Od",
+   "loeb": 1,
+   "hestId": 656355,
+   "hest": "Malibu",
    "kusk": "Jeppe Juel"
   },
   {
-   "dato": "2026-11-02",
-   "bane": "Ål",
-   "loeb": 5,
-   "hestId": 659023,
-   "hest": "Nimbus",
+   "dato": "2026-11-06",
+   "bane": "Od",
+   "loeb": 3,
+   "hestId": 656688,
+   "hest": "Molly Torp",
    "kusk": "Jeppe Juel"
   },
   {
-   "dato": "2026-11-02",
-   "bane": "Ål",
-   "loeb": 91,
-   "hestId": 659082,
-   "hest": "Noon D'atout",
+   "dato": "2026-11-08",
+   "bane": "Ch",
+   "loeb": 3,
+   "hestId": 658654,
+   "hest": "Nilsson",
    "kusk": "Jeppe Juel"
+  },
+  {
+   "dato": "2026-11-08",
+   "bane": "Ch",
+   "loeb": 6,
+   "hestId": 651874,
+   "hest": "Klinton",
+   "kusk": "Jeppe Juel"
+  },
+  {
+   "dato": "2026-11-08",
+   "bane": "Ch",
+   "loeb": 9,
+   "hestId": 657587,
+   "hest": "Daniel Hazelaar (DE)",
+   "kusk": "Jeppe Juel"
+  },
+  {
+   "dato": "2026-11-08",
+   "bane": "Ch",
+   "loeb": 9,
+   "hestId": 661121,
+   "hest": "Duke Of Walner (US)",
+   "kusk": "Rene Kjær"
   }
  ]
 }
