@@ -1,5 +1,5 @@
 {
- "opdateret": "2026-11-04T12:08:53.994Z",
+ "opdateret": "2026-11-05T12:21:55.296Z",
  "traener": {
   "foedt": 1975,
   "hjemmebane": "Spar Nord Arena Aalborg",
@@ -3985,6 +3985,14 @@
    "hestId": 661121,
    "hest": "Duke Of Walner (US)",
    "kusk": "Rene Kjær"
+  },
+  {
+   "dato": "2026-11-11",
+   "bane": "Ål",
+   "loeb": 91,
+   "hestId": 656263,
+   "hest": "Masai Boy",
+   "kusk": "Jeppe Juel"
   }
  ]
 }
