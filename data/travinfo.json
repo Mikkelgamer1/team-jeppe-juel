@@ -1,5 +1,5 @@
 {
- "opdateret": "2026-11-05T12:21:55.296Z",
+ "opdateret": "2026-11-06T12:07:02.661Z",
  "traener": {
   "foedt": 1975,
   "hjemmebane": "Spar Nord Arena Aalborg",
@@ -3985,6 +3985,30 @@
    "hestId": 661121,
    "hest": "Duke Of Walner (US)",
    "kusk": "Rene Kjær"
+  },
+  {
+   "dato": "2026-11-11",
+   "bane": "Ål",
+   "loeb": 2,
+   "hestId": 649572,
+   "hest": "J J",
+   "kusk": "Jeppe Juel"
+  },
+  {
+   "dato": "2026-11-11",
+   "bane": "Ål",
+   "loeb": 5,
+   "hestId": 653365,
+   "hest": "Lucky Love",
+   "kusk": "Jeppe Juel"
+  },
+  {
+   "dato": "2026-11-11",
+   "bane": "Ål",
+   "loeb": 8,
+   "hestId": 648945,
+   "hest": "Ibrahim",
+   "kusk": "Ronja Walter"
   },
   {
    "dato": "2026-11-11",
