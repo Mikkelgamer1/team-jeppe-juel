@@ -1,5 +1,5 @@
 {
- "opdateret": "2026-11-06T12:07:02.661Z",
+ "opdateret": "2026-11-07T11:04:19.552Z",
  "traener": {
   "foedt": 1975,
   "hjemmebane": "Spar Nord Arena Aalborg",
@@ -9,12 +9,12 @@
  "traenerStatistik": [
   {
    "aar": 2026,
-   "starter": 208,
+   "starter": 210,
    "sejre": 32,
-   "toer": 28,
+   "toer": 30,
    "treer": 23,
    "procent": 15,
-   "praemier": 1525317
+   "praemier": 1535317
   },
   {
    "aar": 2025,
@@ -56,12 +56,12 @@
  "kuskStatistik": [
   {
    "aar": 2026,
-   "starter": 453,
+   "starter": 456,
    "sejre": 66,
-   "toer": 62,
-   "treer": 63,
-   "procent": 15,
-   "praemier": 2314713
+   "toer": 64,
+   "treer": 64,
+   "procent": 14,
+   "praemier": 2328213
   },
   {
    "aar": 2025,
@@ -304,10 +304,10 @@
    "foedt": "2023-04-22",
    "far": "Raja Mirchi (SE)",
    "mor": "Treasure Island (SE)",
-   "starter": 1,
-   "placeringer": "0-0-1",
-   "praemier": 6000,
-   "rekord": "19,1m"
+   "starter": 2,
+   "placeringer": "0-1-1",
+   "praemier": 11000,
+   "rekord": "19,1m 16,6am"
   },
   {
    "id": 656263,
@@ -356,10 +356,10 @@
    "foedt": "2023-05-29",
    "far": "Michael's Turn (US)",
    "mor": "Starlet Beat",
-   "starter": 11,
-   "placeringer": "0-3-3",
-   "praemier": 73187,
-   "rekord": "17,9m 16,9ak 15,0am"
+   "starter": 12,
+   "placeringer": "0-4-3",
+   "praemier": 78187,
+   "rekord": "17,9m 16,9ak 14,4am"
   },
   {
    "id": 656915,
@@ -480,6 +480,30 @@
   }
  ],
  "resultater": [
+  {
+   "id": "838173-656688",
+   "dato": "2026-11-06",
+   "bane": "Od",
+   "loeb": 3,
+   "hestId": 656688,
+   "hest": "Molly Torp",
+   "placering": "2",
+   "tid": "14,4a",
+   "distance": 2140,
+   "praemie": 5000
+  },
+  {
+   "id": "838162-656355",
+   "dato": "2026-11-06",
+   "bane": "Od",
+   "loeb": 1,
+   "hestId": 656355,
+   "hest": "Malibu",
+   "placering": "2",
+   "tid": "16,6a",
+   "distance": 2140,
+   "praemie": 5000
+  },
   {
    "id": "838072-659023",
    "dato": "2026-11-02",
@@ -3938,22 +3962,6 @@
   }
  ],
  "kommende": [
-  {
-   "dato": "2026-11-06",
-   "bane": "Od",
-   "loeb": 1,
-   "hestId": 656355,
-   "hest": "Malibu",
-   "kusk": "Jeppe Juel"
-  },
-  {
-   "dato": "2026-11-06",
-   "bane": "Od",
-   "loeb": 3,
-   "hestId": 656688,
-   "hest": "Molly Torp",
-   "kusk": "Jeppe Juel"
-  },
   {
    "dato": "2026-11-08",
    "bane": "Ch",
