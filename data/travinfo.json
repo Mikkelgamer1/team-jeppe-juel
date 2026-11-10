@@ -1,5 +1,5 @@
 {
- "opdateret": "2026-11-08T11:17:37.732Z",
+ "opdateret": "2026-11-10T12:40:12.515Z",
  "traener": {
   "foedt": 1975,
   "hjemmebane": "Spar Nord Arena Aalborg",
@@ -9,12 +9,12 @@
  "traenerStatistik": [
   {
    "aar": 2026,
-   "starter": 210,
+   "starter": 214,
    "sejre": 32,
    "toer": 30,
-   "treer": 23,
+   "treer": 24,
    "procent": 15,
-   "praemier": 1535317
+   "praemier": 1555317
   },
   {
    "aar": 2025,
@@ -56,12 +56,12 @@
  "kuskStatistik": [
   {
    "aar": 2026,
-   "starter": 459,
+   "starter": 464,
    "sejre": 66,
    "toer": 65,
-   "treer": 64,
+   "treer": 65,
    "procent": 14,
-   "praemier": 2335713
+   "praemier": 2391963
   },
   {
    "aar": 2025,
@@ -109,9 +109,9 @@
    "foedt": "2020-04-28",
    "far": "Hans Hazelaar (DE)",
    "mor": "Hinde Hazelaar (DE)",
-   "starter": 32,
+   "starter": 33,
    "placeringer": "10-7-7",
-   "praemier": 863260,
+   "praemier": 874510,
    "rekord": "10,8ak 11,1am 14,8al"
   },
   {
@@ -122,7 +122,7 @@
    "foedt": "2021-03-29",
    "far": "Walner (CA)",
    "mor": "Nashville Lindy (US)",
-   "starter": 38,
+   "starter": 39,
    "placeringer": "5-7-7",
    "praemier": 1332598,
    "rekord": "10,1ak 11,8am *10,0aak"
@@ -226,9 +226,9 @@
    "foedt": "2021-06-14",
    "far": "Varenne (IT)",
    "mor": "Boulevard (NO)",
-   "starter": 30,
-   "placeringer": "7-4-4",
-   "praemier": 479321,
+   "starter": 31,
+   "placeringer": "7-4-5",
+   "praemier": 484321,
    "rekord": "*15,6k *16,4m *11,4ak 11,1am 13,9al"
   },
   {
@@ -395,10 +395,10 @@
    "foedt": "2024-04-15",
    "far": "Fabulous Wood (FR)",
    "mor": "Bikini",
-   "starter": 4,
+   "starter": 5,
    "placeringer": "0-0-0",
-   "praemier": 26000,
-   "rekord": "17,9ak 18,9am"
+   "praemier": 29750,
+   "rekord": "17,9ak 17,4am"
   },
   {
    "id": 659023,
@@ -480,6 +480,54 @@
   }
  ],
  "resultater": [
+  {
+   "id": "838149-661121",
+   "dato": "2026-11-08",
+   "bane": "Ch",
+   "loeb": 9,
+   "hestId": 661121,
+   "hest": "Duke Of Walner (US)",
+   "placering": "0",
+   "tid": "11,6a",
+   "distance": 1600,
+   "praemie": 0
+  },
+  {
+   "id": "838149-657587",
+   "dato": "2026-11-08",
+   "bane": "Ch",
+   "loeb": 9,
+   "hestId": 657587,
+   "hest": "Daniel Hazelaar (DE)",
+   "placering": "4",
+   "tid": "11,0a",
+   "distance": 1600,
+   "praemie": 11250
+  },
+  {
+   "id": "838153-651874",
+   "dato": "2026-11-08",
+   "bane": "Ch",
+   "loeb": 6,
+   "hestId": 651874,
+   "hest": "Klinton",
+   "placering": "3",
+   "tid": "14,0a",
+   "distance": 2000,
+   "praemie": 5000
+  },
+  {
+   "id": "838154-658654",
+   "dato": "2026-11-08",
+   "bane": "Ch",
+   "loeb": 3,
+   "hestId": 658654,
+   "hest": "Nilsson",
+   "placering": "4",
+   "tid": "17,4a",
+   "distance": 2000,
+   "praemie": 3750
+  },
   {
    "id": "838173-656688",
    "dato": "2026-11-06",
@@ -3962,38 +4010,6 @@
   }
  ],
  "kommende": [
-  {
-   "dato": "2026-11-08",
-   "bane": "Ch",
-   "loeb": 3,
-   "hestId": 658654,
-   "hest": "Nilsson",
-   "kusk": "Jeppe Juel"
-  },
-  {
-   "dato": "2026-11-08",
-   "bane": "Ch",
-   "loeb": 6,
-   "hestId": 651874,
-   "hest": "Klinton",
-   "kusk": "Jeppe Juel"
-  },
-  {
-   "dato": "2026-11-08",
-   "bane": "Ch",
-   "loeb": 9,
-   "hestId": 657587,
-   "hest": "Daniel Hazelaar (DE)",
-   "kusk": "Jeppe Juel"
-  },
-  {
-   "dato": "2026-11-08",
-   "bane": "Ch",
-   "loeb": 9,
-   "hestId": 661121,
-   "hest": "Duke Of Walner (US)",
-   "kusk": "Rene Kjær"
-  },
   {
    "dato": "2026-11-11",
    "bane": "Ål",
