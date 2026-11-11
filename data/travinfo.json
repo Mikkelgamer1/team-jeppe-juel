@@ -1,5 +1,5 @@
 {
- "opdateret": "2026-11-10T12:40:12.515Z",
+ "opdateret": "2026-11-11T11:53:15.166Z",
  "traener": {
   "foedt": 1975,
   "hjemmebane": "Spar Nord Arena Aalborg",
@@ -4040,6 +4040,22 @@
    "loeb": 91,
    "hestId": 656263,
    "hest": "Masai Boy",
+   "kusk": "Jeppe Juel"
+  },
+  {
+   "dato": "2026-11-15",
+   "bane": "Ny",
+   "loeb": 10,
+   "hestId": 661121,
+   "hest": "Duke Of Walner (US)",
+   "kusk": "Rene Kjær"
+  },
+  {
+   "dato": "2026-11-15",
+   "bane": "Ny",
+   "loeb": 10,
+   "hestId": 657609,
+   "hest": "Fly Equos Jet (IT)",
    "kusk": "Jeppe Juel"
   }
  ]
