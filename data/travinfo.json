@@ -1,5 +1,5 @@
 {
- "opdateret": "2026-11-11T11:53:15.166Z",
+ "opdateret": "2026-11-13T12:13:02.793Z",
  "traener": {
   "foedt": 1975,
   "hjemmebane": "Spar Nord Arena Aalborg",
@@ -9,7 +9,7 @@
  "traenerStatistik": [
   {
    "aar": 2026,
-   "starter": 214,
+   "starter": 217,
    "sejre": 32,
    "toer": 30,
    "treer": 24,
@@ -56,12 +56,12 @@
  "kuskStatistik": [
   {
    "aar": 2026,
-   "starter": 464,
+   "starter": 468,
    "sejre": 66,
    "toer": 65,
-   "treer": 65,
+   "treer": 66,
    "procent": 14,
-   "praemier": 2391963
+   "praemier": 2397963
   },
   {
    "aar": 2025,
@@ -187,7 +187,7 @@
    "foedt": "2020-04-15",
    "far": "Raja Mirchi (SE)",
    "mor": "Sidney",
-   "starter": 56,
+   "starter": 57,
    "placeringer": "6-13-7",
    "praemier": 310673,
    "rekord": "16,9k 14,0m 22,2l 13,3ak 12,9am"
@@ -213,7 +213,7 @@
    "foedt": "2020-06-28",
    "far": "Orlando Vici (FR)",
    "mor": "Treasure Island (SE)",
-   "starter": 43,
+   "starter": 44,
    "placeringer": "3-9-6",
    "praemier": 388300,
    "rekord": "*14,4m 16,0l 14,5ak 13,5am 14,8al"
@@ -278,7 +278,7 @@
    "foedt": "2022-05-18",
    "far": "Ens Snapshot (US)",
    "mor": "Flash Of Love",
-   "starter": 18,
+   "starter": 19,
    "placeringer": "2-0-5",
    "praemier": 115692,
    "rekord": "16,8ak 13,8am 14,0al"
@@ -480,6 +480,42 @@
   }
  ],
  "resultater": [
+  {
+   "id": "838216-648945",
+   "dato": "2026-11-11",
+   "bane": "Ål",
+   "loeb": 8,
+   "hestId": 648945,
+   "hest": "Ibrahim",
+   "placering": "0",
+   "tid": "18,9g",
+   "distance": 2180,
+   "praemie": 0
+  },
+  {
+   "id": "838214-653365",
+   "dato": "2026-11-11",
+   "bane": "Ål",
+   "loeb": 5,
+   "hestId": 653365,
+   "hest": "Lucky Love",
+   "placering": "0",
+   "tid": "16,3a",
+   "distance": 2140,
+   "praemie": 0
+  },
+  {
+   "id": "838218-649572",
+   "dato": "2026-11-11",
+   "bane": "Ål",
+   "loeb": 2,
+   "hestId": 649572,
+   "hest": "J J",
+   "placering": "0",
+   "tid": "16,5",
+   "distance": 2140,
+   "praemie": 0
+  },
   {
    "id": "838149-661121",
    "dato": "2026-11-08",
@@ -4011,38 +4047,6 @@
  ],
  "kommende": [
   {
-   "dato": "2026-11-11",
-   "bane": "Ål",
-   "loeb": 2,
-   "hestId": 649572,
-   "hest": "J J",
-   "kusk": "Jeppe Juel"
-  },
-  {
-   "dato": "2026-11-11",
-   "bane": "Ål",
-   "loeb": 5,
-   "hestId": 653365,
-   "hest": "Lucky Love",
-   "kusk": "Jeppe Juel"
-  },
-  {
-   "dato": "2026-11-11",
-   "bane": "Ål",
-   "loeb": 8,
-   "hestId": 648945,
-   "hest": "Ibrahim",
-   "kusk": "Ronja Walter"
-  },
-  {
-   "dato": "2026-11-11",
-   "bane": "Ål",
-   "loeb": 91,
-   "hestId": 656263,
-   "hest": "Masai Boy",
-   "kusk": "Jeppe Juel"
-  },
-  {
    "dato": "2026-11-15",
    "bane": "Ny",
    "loeb": 10,
@@ -4057,6 +4061,22 @@
    "hestId": 657609,
    "hest": "Fly Equos Jet (IT)",
    "kusk": "Jeppe Juel"
+  },
+  {
+   "dato": "2026-11-18",
+   "bane": "Ål",
+   "loeb": 91,
+   "hestId": 656263,
+   "hest": "Masai Boy",
+   "kusk": "Jeppe Juel"
+  },
+  {
+   "dato": "2026-11-18",
+   "bane": "Ål",
+   "loeb": 91,
+   "hestId": 656366,
+   "hest": "Mikado",
+   "kusk": "Kenneth Andersen"
   }
  ]
 }
