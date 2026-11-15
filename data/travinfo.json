@@ -1,5 +1,5 @@
 {
- "opdateret": "2026-11-14T11:28:31.842Z",
+ "opdateret": "2026-11-15T11:57:27.278Z",
  "traener": {
   "foedt": 1975,
   "hjemmebane": "Spar Nord Arena Aalborg",
@@ -56,12 +56,12 @@
  "kuskStatistik": [
   {
    "aar": 2026,
-   "starter": 470,
+   "starter": 471,
    "sejre": 66,
-   "toer": 66,
+   "toer": 67,
    "treer": 66,
    "procent": 14,
-   "praemier": 2403963
+   "praemier": 2412463
   },
   {
    "aar": 2025,
