@@ -1,5 +1,5 @@
 {
- "opdateret": "2026-11-17T13:27:24.524Z",
+ "opdateret": "2026-11-18T13:03:23.924Z",
  "traener": {
   "foedt": 1975,
   "hjemmebane": "Spar Nord Arena Aalborg",
@@ -4132,6 +4132,14 @@
    "loeb": 9,
    "hestId": 651874,
    "hest": "Klinton",
+   "kusk": "Jeppe Juel"
+  },
+  {
+   "dato": "2026-11-21",
+   "bane": "År",
+   "loeb": 4,
+   "hestId": 653365,
+   "hest": "Lucky Love",
    "kusk": "Jeppe Juel"
   },
   {
