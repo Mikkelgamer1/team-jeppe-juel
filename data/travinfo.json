@@ -1,5 +1,5 @@
 {
- "opdateret": "2026-11-18T13:03:23.924Z",
+ "opdateret": "2026-11-19T13:07:38.057Z",
  "traener": {
   "foedt": 1975,
   "hjemmebane": "Spar Nord Arena Aalborg",
@@ -56,12 +56,12 @@
  "kuskStatistik": [
   {
    "aar": 2026,
-   "starter": 474,
+   "starter": 478,
    "sejre": 68,
    "toer": 68,
-   "treer": 66,
+   "treer": 67,
    "procent": 14,
-   "praemier": 2448463
+   "praemier": 2451963
   },
   {
    "aar": 2025,
@@ -4070,22 +4070,6 @@
   }
  ],
  "kommende": [
-  {
-   "dato": "2026-11-18",
-   "bane": "Ål",
-   "loeb": 91,
-   "hestId": 656263,
-   "hest": "Masai Boy",
-   "kusk": "Jeppe Juel"
-  },
-  {
-   "dato": "2026-11-18",
-   "bane": "Ål",
-   "loeb": 91,
-   "hestId": 656366,
-   "hest": "Mikado",
-   "kusk": "Kenneth Andersen"
-  },
   {
    "dato": "2026-11-19",
    "bane": "Åb",
