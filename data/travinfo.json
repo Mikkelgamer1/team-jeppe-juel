@@ -1,5 +1,5 @@
 {
- "opdateret": "2026-11-19T13:07:38.057Z",
+ "opdateret": "2026-11-20T12:53:48.435Z",
  "traener": {
   "foedt": 1975,
   "hjemmebane": "Spar Nord Arena Aalborg",
@@ -9,12 +9,12 @@
  "traenerStatistik": [
   {
    "aar": 2026,
-   "starter": 219,
+   "starter": 225,
    "sejre": 32,
    "toer": 31,
-   "treer": 25,
-   "procent": 15,
-   "praemier": 1567817
+   "treer": 27,
+   "procent": 14,
+   "praemier": 1606416
   },
   {
    "aar": 2025,
@@ -56,12 +56,12 @@
  "kuskStatistik": [
   {
    "aar": 2026,
-   "starter": 478,
+   "starter": 481,
    "sejre": 68,
    "toer": 68,
-   "treer": 67,
+   "treer": 68,
    "procent": 14,
-   "praemier": 2451963
+   "praemier": 2463940
   },
   {
    "aar": 2025,
@@ -135,10 +135,10 @@
    "foedt": "2022-05-24",
    "far": "Hayden Hanover (US)",
    "mor": "Fonzan Sund (SE)",
-   "starter": 31,
+   "starter": 32,
    "placeringer": "4-7-1",
-   "praemier": 149329,
-   "rekord": "19,2m *12,7ak *15,3am 14,9al"
+   "praemier": 156857,
+   "rekord": "19,2m *12,7ak 14,8am 14,9al"
   },
   {
    "id": 657609,
@@ -174,10 +174,10 @@
    "foedt": "2019-05-24",
    "far": "Farifant (IT)",
    "mor": "Need You (SE)",
-   "starter": 54,
+   "starter": 55,
    "placeringer": "10-12-8",
-   "praemier": 297948,
-   "rekord": "13,9m 15,8l 12,1ak 13,0am"
+   "praemier": 301370,
+   "rekord": "13,5m 15,8l 12,1ak 13,0am"
   },
   {
    "id": 648945,
@@ -187,9 +187,9 @@
    "foedt": "2020-04-15",
    "far": "Raja Mirchi (SE)",
    "mor": "Sidney",
-   "starter": 57,
+   "starter": 58,
    "placeringer": "6-13-7",
-   "praemier": 310673,
+   "praemier": 315053,
    "rekord": "16,9k 14,0m 22,2l 13,3ak 12,9am"
   },
   {
@@ -226,9 +226,9 @@
    "foedt": "2021-06-14",
    "far": "Varenne (IT)",
    "mor": "Boulevard (NO)",
-   "starter": 31,
-   "placeringer": "7-4-5",
-   "praemier": 484321,
+   "starter": 32,
+   "placeringer": "7-4-6",
+   "praemier": 491849,
    "rekord": "*15,6k *16,4m *11,4ak 11,1am 13,9al"
   },
   {
@@ -252,10 +252,10 @@
    "foedt": "2022-05-26",
    "far": "Googoo Gaagaa (US)",
    "mor": "Wannabe",
-   "starter": 20,
-   "placeringer": "5-4-3",
-   "praemier": 270818,
-   "rekord": "*15,2m 14,2ak 13,0am"
+   "starter": 21,
+   "placeringer": "5-4-4",
+   "praemier": 285532,
+   "rekord": "13,0m 14,2ak 13,0am"
   },
   {
    "id": 654092,
@@ -265,9 +265,9 @@
    "foedt": "2022-05-17",
    "far": "Maharajah (SE)",
    "mor": "Awesome Annie",
-   "starter": 20,
+   "starter": 21,
    "placeringer": "3-2-4",
-   "praemier": 140592,
+   "praemier": 141619,
    "rekord": "*13,5ak *13,1am 14,6al"
   },
   {
@@ -480,6 +480,78 @@
   }
  ],
  "resultater": [
+  {
+   "id": "838346-651874",
+   "dato": "2026-11-19",
+   "bane": "Åb",
+   "loeb": 9,
+   "hestId": 651874,
+   "hest": "Klinton",
+   "placering": "3",
+   "tid": "12,0a",
+   "distance": 1640,
+   "praemie": 7528
+  },
+  {
+   "id": "838345-648049",
+   "dato": "2026-11-19",
+   "bane": "Åb",
+   "loeb": 8,
+   "hestId": 648049,
+   "hest": "Here's Johnny",
+   "placering": "7",
+   "tid": "13,5",
+   "distance": 2140,
+   "praemie": 3422
+  },
+  {
+   "id": "838345-654328",
+   "dato": "2026-11-19",
+   "bane": "Åb",
+   "loeb": 8,
+   "hestId": 654328,
+   "hest": "Leonora By Hans",
+   "placering": "3",
+   "tid": "13,0",
+   "distance": 2140,
+   "praemie": 14714
+  },
+  {
+   "id": "838344-656471",
+   "dato": "2026-11-19",
+   "bane": "Åb",
+   "loeb": 6,
+   "hestId": 656471,
+   "hest": "Entertainment (SE)",
+   "placering": "5",
+   "tid": "14,8a",
+   "distance": 2140,
+   "praemie": 7528
+  },
+  {
+   "id": "838344-654092",
+   "dato": "2026-11-19",
+   "bane": "Åb",
+   "loeb": 6,
+   "hestId": 654092,
+   "hest": "Leo Wynn",
+   "placering": "d",
+   "tid": "ga",
+   "distance": 2140,
+   "praemie": 1027
+  },
+  {
+   "id": "838343-648945",
+   "dato": "2026-11-19",
+   "bane": "Åb",
+   "loeb": 5,
+   "hestId": 648945,
+   "hest": "Ibrahim",
+   "placering": "5",
+   "tid": "15,5a",
+   "distance": 2140,
+   "praemie": 4380
+  },
   {
    "id": "838283-661121",
    "dato": "2026-11-15",
@@ -4071,54 +4143,6 @@
  ],
  "kommende": [
   {
-   "dato": "2026-11-19",
-   "bane": "Åb",
-   "loeb": 5,
-   "hestId": 648945,
-   "hest": "Ibrahim",
-   "kusk": "Ronja Walter"
-  },
-  {
-   "dato": "2026-11-19",
-   "bane": "Åb",
-   "loeb": 6,
-   "hestId": 656471,
-   "hest": "Entertainment (SE)",
-   "kusk": "André Eklundh"
-  },
-  {
-   "dato": "2026-11-19",
-   "bane": "Åb",
-   "loeb": 6,
-   "hestId": 654092,
-   "hest": "Leo Wynn",
-   "kusk": "Jeppe Juel"
-  },
-  {
-   "dato": "2026-11-19",
-   "bane": "Åb",
-   "loeb": 8,
-   "hestId": 648049,
-   "hest": "Here's Johnny",
-   "kusk": "Jeppe Juel"
-  },
-  {
-   "dato": "2026-11-19",
-   "bane": "Åb",
-   "loeb": 8,
-   "hestId": 654328,
-   "hest": "Leonora By Hans",
-   "kusk": "Ruben Kristensen"
-  },
-  {
-   "dato": "2026-11-19",
-   "bane": "Åb",
-   "loeb": 9,
-   "hestId": 651874,
-   "hest": "Klinton",
-   "kusk": "Jeppe Juel"
-  },
-  {
    "dato": "2026-11-21",
    "bane": "År",
    "loeb": 4,
@@ -4132,6 +4156,22 @@
    "loeb": 4,
    "hestId": 649572,
    "hest": "J J",
+   "kusk": "Jeppe Juel"
+  },
+  {
+   "dato": "2026-11-25",
+   "bane": "Åb",
+   "loeb": 6,
+   "hestId": 656471,
+   "hest": "Entertainment (SE)",
+   "kusk": "Jeppe Juel"
+  },
+  {
+   "dato": "2026-11-25",
+   "bane": "Åb",
+   "loeb": 7,
+   "hestId": 656484,
+   "hest": "Messi Hill",
    "kusk": "Jeppe Juel"
   }
  ]
