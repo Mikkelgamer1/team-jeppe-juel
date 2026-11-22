@@ -1,5 +1,5 @@
 {
- "opdateret": "2026-11-21T12:39:40.456Z",
+ "opdateret": "2026-11-22T12:35:58.317Z",
  "traener": {
   "foedt": 1975,
   "hjemmebane": "Spar Nord Arena Aalborg",
@@ -9,12 +9,12 @@
  "traenerStatistik": [
   {
    "aar": 2026,
-   "starter": 225,
-   "sejre": 32,
+   "starter": 226,
+   "sejre": 33,
    "toer": 31,
    "treer": 27,
-   "procent": 14,
-   "praemier": 1606416
+   "procent": 15,
+   "praemier": 1612416
   },
   {
    "aar": 2025,
@@ -56,12 +56,12 @@
  "kuskStatistik": [
   {
    "aar": 2026,
-   "starter": 484,
-   "sejre": 69,
+   "starter": 488,
+   "sejre": 71,
    "toer": 68,
-   "treer": 68,
-   "procent": 14,
-   "praemier": 2476190
+   "treer": 69,
+   "procent": 15,
+   "praemier": 2491690
   },
   {
    "aar": 2025,
@@ -278,9 +278,9 @@
    "foedt": "2022-05-18",
    "far": "Ens Snapshot (US)",
    "mor": "Flash Of Love",
-   "starter": 19,
-   "placeringer": "2-0-5",
-   "praemier": 115692,
+   "starter": 20,
+   "placeringer": "3-0-5",
+   "praemier": 121692,
    "rekord": "16,8ak 13,8am 14,0al"
   },
   {
@@ -480,6 +480,18 @@
   }
  ],
  "resultater": [
+  {
+   "id": "838400-653365",
+   "dato": "2026-11-21",
+   "bane": "År",
+   "loeb": 4,
+   "hestId": 653365,
+   "hest": "Lucky Love",
+   "placering": "1",
+   "tid": "16,8l",
+   "distance": 1800,
+   "praemie": 6000
+  },
   {
    "id": "838346-651874",
    "dato": "2026-11-19",
@@ -4142,14 +4154,6 @@
   }
  ],
  "kommende": [
-  {
-   "dato": "2026-11-21",
-   "bane": "År",
-   "loeb": 4,
-   "hestId": 653365,
-   "hest": "Lucky Love",
-   "kusk": "Jeppe Juel"
-  },
   {
    "dato": "2026-11-23",
    "bane": "Sk",
