@@ -1,5 +1,5 @@
 {
- "opdateret": "2026-11-22T12:35:58.317Z",
+ "opdateret": "2026-11-23T14:39:07.219Z",
  "traener": {
   "foedt": 1975,
   "hjemmebane": "Spar Nord Arena Aalborg",
@@ -4176,6 +4176,38 @@
    "loeb": 7,
    "hestId": 656484,
    "hest": "Messi Hill",
+   "kusk": "Jeppe Juel"
+  },
+  {
+   "dato": "2026-11-27",
+   "bane": "År",
+   "loeb": 1,
+   "hestId": 656915,
+   "hest": "Montana Wynn",
+   "kusk": "Jeppe Juel"
+  },
+  {
+   "dato": "2026-11-27",
+   "bane": "År",
+   "loeb": 2,
+   "hestId": 656366,
+   "hest": "Mikado",
+   "kusk": "Jeppe Juel"
+  },
+  {
+   "dato": "2026-11-27",
+   "bane": "År",
+   "loeb": 4,
+   "hestId": 653365,
+   "hest": "Lucky Love",
+   "kusk": "Jeppe Juel"
+  },
+  {
+   "dato": "2026-11-27",
+   "bane": "År",
+   "loeb": 5,
+   "hestId": 649346,
+   "hest": "Moses Di Quattro (SE)",
    "kusk": "Jeppe Juel"
   }
  ]
