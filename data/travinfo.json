@@ -1,5 +1,5 @@
 {
- "opdateret": "2026-11-23T14:39:07.219Z",
+ "opdateret": "2026-11-24T14:53:24.492Z",
  "traener": {
   "foedt": 1975,
   "hjemmebane": "Spar Nord Arena Aalborg",
@@ -56,12 +56,12 @@
  "kuskStatistik": [
   {
    "aar": 2026,
-   "starter": 488,
+   "starter": 492,
    "sejre": 71,
-   "toer": 68,
+   "toer": 69,
    "treer": 69,
-   "procent": 15,
-   "praemier": 2491690
+   "procent": 14,
+   "praemier": 2496690
   },
   {
    "aar": 2025,
@@ -4155,14 +4155,6 @@
  ],
  "kommende": [
   {
-   "dato": "2026-11-23",
-   "bane": "Sk",
-   "loeb": 4,
-   "hestId": 649572,
-   "hest": "J J",
-   "kusk": "Jeppe Juel"
-  },
-  {
    "dato": "2026-11-25",
    "bane": "Åb",
    "loeb": 6,
@@ -4208,6 +4200,30 @@
    "loeb": 5,
    "hestId": 649346,
    "hest": "Moses Di Quattro (SE)",
+   "kusk": "Jeppe Juel"
+  },
+  {
+   "dato": "2026-11-28",
+   "bane": "Ål",
+   "loeb": 1,
+   "hestId": 659082,
+   "hest": "Noon D'atout",
+   "kusk": "Jeppe Juel"
+  },
+  {
+   "dato": "2026-11-28",
+   "bane": "Ål",
+   "loeb": 3,
+   "hestId": 661121,
+   "hest": "Duke Of Walner (US)",
+   "kusk": "Jeppe Juel"
+  },
+  {
+   "dato": "2026-11-28",
+   "bane": "Ål",
+   "loeb": 91,
+   "hestId": 658994,
+   "hest": "Thinker Monkey (US)",
    "kusk": "Jeppe Juel"
   }
  ]
