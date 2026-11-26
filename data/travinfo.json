@@ -1,5 +1,5 @@
 {
- "opdateret": "2026-11-25T14:22:46.391Z",
+ "opdateret": "2026-11-26T13:54:32.619Z",
  "traener": {
   "foedt": 1975,
   "hjemmebane": "Spar Nord Arena Aalborg",
@@ -4155,22 +4155,6 @@
  ],
  "kommende": [
   {
-   "dato": "2026-11-25",
-   "bane": "Åb",
-   "loeb": 6,
-   "hestId": 656471,
-   "hest": "Entertainment (SE)",
-   "kusk": "Jeppe Juel"
-  },
-  {
-   "dato": "2026-11-25",
-   "bane": "Åb",
-   "loeb": 7,
-   "hestId": 656484,
-   "hest": "Messi Hill",
-   "kusk": "Jeppe Juel"
-  },
-  {
    "dato": "2026-11-27",
    "bane": "År",
    "loeb": 1,
@@ -4216,14 +4200,6 @@
    "loeb": 3,
    "hestId": 661121,
    "hest": "Duke Of Walner (US)",
-   "kusk": "Jeppe Juel"
-  },
-  {
-   "dato": "2026-11-28",
-   "bane": "Ål",
-   "loeb": 91,
-   "hestId": 658994,
-   "hest": "Thinker Monkey (US)",
    "kusk": "Jeppe Juel"
   }
  ]
