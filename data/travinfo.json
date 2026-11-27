@@ -1,5 +1,5 @@
 {
- "opdateret": "2026-11-26T13:54:32.619Z",
+ "opdateret": "2026-11-27T13:52:06.458Z",
  "traener": {
   "foedt": 1975,
   "hjemmebane": "Spar Nord Arena Aalborg",
@@ -9,12 +9,12 @@
  "traenerStatistik": [
   {
    "aar": 2026,
-   "starter": 226,
+   "starter": 228,
    "sejre": 33,
-   "toer": 31,
+   "toer": 32,
    "treer": 27,
-   "procent": 15,
-   "praemier": 1612416
+   "procent": 14,
+   "praemier": 1634658
   },
   {
    "aar": 2025,
@@ -56,12 +56,12 @@
  "kuskStatistik": [
   {
    "aar": 2026,
-   "starter": 492,
+   "starter": 494,
    "sejre": 71,
-   "toer": 69,
+   "toer": 70,
    "treer": 69,
    "procent": 14,
-   "praemier": 2496690
+   "praemier": 2518248
   },
   {
    "aar": 2025,
@@ -135,9 +135,9 @@
    "foedt": "2022-05-24",
    "far": "Hayden Hanover (US)",
    "mor": "Fonzan Sund (SE)",
-   "starter": 32,
+   "starter": 33,
    "placeringer": "4-7-1",
-   "praemier": 156857,
+   "praemier": 158568,
    "rekord": "19,2m *12,7ak 14,8am 14,9al"
   },
   {
@@ -330,10 +330,10 @@
    "foedt": "2023-04-15",
    "far": "Calgary Games (SE)",
    "mor": "Echo Hill",
-   "starter": 7,
-   "placeringer": "1-0-2",
-   "praemier": 89000,
-   "rekord": "16,7ak 14,8am"
+   "starter": 8,
+   "placeringer": "1-1-2",
+   "praemier": 109531,
+   "rekord": "16,7ak 14,7am"
   },
   {
    "id": 656366,
@@ -480,6 +480,30 @@
   }
  ],
  "resultater": [
+  {
+   "id": "838421-656484",
+   "dato": "2026-11-25",
+   "bane": "Åb",
+   "loeb": 7,
+   "hestId": 656484,
+   "hest": "Messi Hill",
+   "placering": "2",
+   "tid": "14,7a",
+   "distance": 2140,
+   "praemie": 20531
+  },
+  {
+   "id": "838420-656471",
+   "dato": "2026-11-25",
+   "bane": "Åb",
+   "loeb": 6,
+   "hestId": 656471,
+   "hest": "Entertainment (SE)",
+   "placering": "d",
+   "tid": "ga",
+   "distance": 1640,
+   "praemie": 1711
+  },
   {
    "id": "838400-653365",
    "dato": "2026-11-21",
